@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "4d7b46b1-aaba-49b4-aa10-183321014dd3",
+    "appType": "clockface",
+    "appDisplayName": "Simple CGM",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Simple CGM"
+      }
+    }
+  }
+}
